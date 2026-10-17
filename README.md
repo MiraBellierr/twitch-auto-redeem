@@ -2,6 +2,8 @@
 
 A Chromium extension that auto-redeems a Twitch channel points reward the moment its cooldown ends.
 
+<img src="docs/screenshots/demo.png" alt="Demo" width="800">
+
 ## ✨ What it does
 
 - You pick one reward per channel. The extension remembers the pick for that channel.
